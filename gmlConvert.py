@@ -1,5 +1,5 @@
-
 import networkx as nx
+
 G = nx.Graph()
 
 input = open ('path','r')
